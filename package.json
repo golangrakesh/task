@@ -1,0 +1,19 @@
+[{
+		"id":1,
+		"name": "Item 1",
+		"pickup_time": 10,
+		"packaging_time": 20
+	},
+	{
+		"id":2,
+		"name": "Item 2",
+		"pickup_time": 5,
+		"packaging_time": 12
+	},
+	{
+		"id":3,
+		"name": "Item 3",
+		"pickup_time": 5,
+		"packaging_time": 10
+	}
+]
